@@ -1,0 +1,92 @@
+[
+    {
+        "id": 1,
+        "name": "AI Writing Pro",
+        "description": "Generate high-quality content, blogs, and marketing copy in just a few seconds with advanced AI.",
+        "price": 29,
+        "period": "monthly",
+        "tag": "Best Seller",
+        "tagType": "Best Seller",
+        "features": [
+            "Unlimited AI generation",
+            "50+ Writing Templates",
+            "Grammer Checker"
+        ],
+        "icon": "writing.png"
+    },
+    {
+        "id": 2,
+        "name": "Stock Image Vault",
+        "description": "Access millions of high-resolution stock images, vectors, and illustrations for any project.",
+        "price": 19,
+        "period": "yearly",
+        "tag": "Popular",
+        "tagType": "Popular",
+        "features": [
+            "Unlimited Downloads",
+            "4K & HD Images",
+            "Commercial License"
+        ],
+        "icon": "camera.png"
+    },
+    {
+        "id": 3,
+        "name": "Resume Builder",
+        "description": "Create professional, ATS-friendly resumes with guided templates and smart suggestions.",
+        "price": 15,
+        "period": "one-time",
+        "tag": "New",
+        "tagType": "New",
+        "features": [
+            "ATS Optimization",
+            "Modern Templates",
+            "Export to PDF & DOCX"
+        ],
+        "icon": "resume.png"
+    },
+    {
+        "id": 4,
+        "name": "Design Template",
+        "description": "Explore thousands of ready-to-use templates for anything.",
+        "price": 25,
+        "period": "monthly",
+        "tag": "New",
+        "tagType": "New",
+        "features": [
+            "1000+ Templates",
+            "Fully Editable",
+            "Drag & Drop Editor"
+        ],
+        "icon": "design-tool.png"
+    },
+    {
+        "id": 5,
+        "name": "Social Media Kit",
+        "description": "Plan, design, and publish engaging social media content with ready-made kits.",
+        "price": 22,
+        "period": "monthly",
+        "tag": "Best Seller",
+        "tagType": "Best Seller",
+        "features": [
+            "Content Calendar",
+            "Post Templates",
+            "Hashtag Generator"
+        ],
+        "icon": "social-media.png"
+    },
+    {
+        "id": 6,
+        "name": "Automation Toolkit",
+        "description": "Automate repetitive tasks and workflows to save time and boost productivity.",
+        "price": 35,
+        "period": "yearly",
+        "tag": "Popular",
+        "tagType": "Popular",
+        "features": [
+            "Workflow Automation",
+            "App Integrations",
+            "No-Code Builder"
+        ],
+        "icon": "operation.png"
+    }
+]
